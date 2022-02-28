@@ -2,7 +2,7 @@
 Primeiro repositório para desafio de projeto sobre Git/Github da DIO. 
 
 ## Sumário
- - O que é git
+ - [O que é git](https://github.com/vivirocha/dio-desafio-github-primeiro-repositorio/blob/main/1%20-%20O-que-e-git.md.md)
  - Vantagens
  - O que é GitHub
  - Para que serve o GitHub
