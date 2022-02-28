@@ -11,7 +11,6 @@ Primeiro repositório para desafio de projeto sobre Git/Github da DIO.
  - Comando do Git
  - Conclusão
 
-
 ## Links úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 [Kenzie Academy](https://kenzie.com.br/blog/o-que-e-git/)
