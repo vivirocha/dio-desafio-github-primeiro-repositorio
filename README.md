@@ -14,3 +14,8 @@ Primeiro repositório para desafio de projeto sobre Git/Github da DIO.
 ## Links úteis
 [Sintaxe Básica Markdown](https://www.markdownguide.org/basic-syntax/)
 [Kenzie Academy](https://kenzie.com.br/blog/o-que-e-git/)
+
+## Fonte
+[Kenzie Academy](https://kenzie.com.br/blog/o-que-e-git/)
+
+
